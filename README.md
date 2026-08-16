@@ -2,6 +2,8 @@
 
 一个全球同服、持续运行的国家资源投放与统一模拟 Demo。
 
+在线体验：<https://lcpaper.github.io/world-critical-point-demo/>
+
 ## 本地运行
 
 直接打开 `index.html`，或在目录中运行：
